@@ -1,0 +1,15 @@
+Weekly Task:16-20Dec2024
+
+Satwik: Syslog Trap server Implementaion and Syslog processor and check all realtime messages from node to UI and Implement if any message required as per system requirement. And Finally freeze the version for deployment.
+
+Sneha: Rewiring all the core module to convert for scalable module as per requirement . And Finally freeze the version for deployment.
+
+Ravi : Implementation of all logging module for snmp as well syslog and make rest api for display data.
+
+Abhishek: Work on Apache airflow for taking kafka data and submit to spark on regural interval for insertion of bulk data and monitor its performance.
+          make a comparison report based on your observation on load.
+
+Darshan: Implementation of Scada protocol OPC/IEC/MODBUS for this week. Make simulator or find simulator based on these scada protocol. And study on PLC for better understanding. Make a summary report on these protocol.
+
+Ranjan: Exploring the tool apachae nifi ,symetric ds and kafka connect for database replication and parallel work on integration and testing .
+        
